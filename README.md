@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working with my Mobile app projects<br>I'm open in Collaborations<br><br>
+I'm currently working on my Mobile app projects<br>I'm open to Collaboration <br><br>
 
 
 ## 🌐 Socials:
