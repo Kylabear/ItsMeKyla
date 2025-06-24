@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Mobile app projects<br>I'm open to Collaboration <br><br>
+Currently Doing Laravel+React js Project!<br>I'm open to Collaboration <br><br>
 
 
 ## 🌐 Socials:
