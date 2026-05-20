@@ -16,7 +16,7 @@
 ---
 
 ## 💫 About Me:
-- 🎓 BSIT Major in Web Technology (Graduating Sept 2025)  
+- 🎓 Graduate | BSIT - Major in Web Technology  
 - 🚀 Currently Doing Laravel + React.js Project  
 - 🤝 I’m open to Collaboration  
 - 🎨 Passionate in creative tech, UI/UX, and data-driven apps  
